@@ -1,1 +1,3 @@
-# coder10012
+# coder10012 
+
+This is a python code repo
